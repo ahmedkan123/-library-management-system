@@ -1,2 +1,7 @@
-# library-management-system
+# Library-management-system
 The system allows librarians to manage books, patrons, and borrowing records.
+# Technologies
+
+# Features
+
+# Setup 
